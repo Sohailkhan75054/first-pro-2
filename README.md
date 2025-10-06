@@ -1,2 +1,2 @@
 # first-pro-2
-This is demo of git and githu
+This is demo of git and githu.
